@@ -14,8 +14,8 @@ import (
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 
-	"github.com/tbogdala/filefreezer"
-	"github.com/tbogdala/filefreezer/cmd/freezer/models"
+	"github.com/marcoziti/gringotts"
+	"github.com/marcoziti/gringotts/cmd/freezer/models"
 )
 
 const (

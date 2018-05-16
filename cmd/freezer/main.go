@@ -13,8 +13,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/tbogdala/filefreezer"
-	"github.com/tbogdala/filefreezer/cmd/freezer/command"
+	"github.com/marcoziti/gringotts"
+	"github.com/marcoziti/gringotts/cmd/freezer/command"
 
 	"strings"
 

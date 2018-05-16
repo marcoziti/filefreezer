@@ -14,7 +14,7 @@ import (
 	"time"
 
 	"github.com/labstack/echo"
-	"github.com/tbogdala/filefreezer"
+	"github.com/marcoziti/gringotts"
 )
 
 // serverState represents the server state and includes configuration flags.

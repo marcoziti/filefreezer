@@ -19,9 +19,9 @@ import (
 	"strings"
 
 	"github.com/spf13/afero"
-	"github.com/tbogdala/filefreezer"
-	"github.com/tbogdala/filefreezer/cmd/freezer/command"
-	"github.com/tbogdala/filefreezer/cmd/freezer/models"
+	"github.com/marcoziti/gringotts"
+	"github.com/marcoziti/gringotts/cmd/freezer/command"
+	"github.com/marcoziti/gringotts/cmd/freezer/models"
 )
 
 const (

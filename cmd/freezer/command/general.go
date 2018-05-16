@@ -13,7 +13,7 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/tbogdala/filefreezer/cmd/freezer/models"
+	"github.com/marcoziti/gringotts/cmd/freezer/models"
 
 	"encoding/json"
 	"io/ioutil"

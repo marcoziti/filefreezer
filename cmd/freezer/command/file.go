@@ -10,8 +10,8 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/tbogdala/filefreezer"
-	"github.com/tbogdala/filefreezer/cmd/freezer/models"
+	"github.com/marcoziti/gringotts"
+	"github.com/marcoziti/gringotts/cmd/freezer/models"
 )
 
 // GetFileInfoByFilename takes the long way of finding a FileInfo object
